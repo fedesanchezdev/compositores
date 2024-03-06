@@ -24,9 +24,9 @@
     {
         "compositor": "Martinu",
         "obra": "Suite miniature",
-        "PartituraCello": "https://drive.google.com/file/d/1V8RtecUoC21cgnWPjQKXsp_gRZQWNNnz/view?usp=sharing",
-        "PartituraPiano": "https://drive.google.com/file/d/17t2z9_qZQi9NIMqIVSII5sG-1yWu3SgA/view?usp=sharing",
-        "Movimientos": [
+        "partituraCello": "https://drive.google.com/file/d/1V8RtecUoC21cgnWPjQKXsp_gRZQWNNnz/view?usp=sharing",
+        "partituraPiano": "https://drive.google.com/file/d/17t2z9_qZQi9NIMqIVSII5sG-1yWu3SgA/view?usp=sharing",
+        "movimientos": [
             {
                 "Allegro": {
                     "mm40": "https://drive.google.com/file/d/1h2tY1XQ1XWYpY1s2BhWt3e6uVn9oYB6-/view?usp=sharing",
