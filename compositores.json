@@ -158,5 +158,82 @@
     "compositor": "Bach, J.S.",
     "obra": "Suite Nro 3 en Do Mayor BWV 1009",
     "partituraCello": "https://drive.google.com/file/d/1OA_2Q_qfazWGd-Ll6vcb1G6wOhp3HPWV/view?usp=sharing"
+  },
+  {
+    "compositor": "Barrière, J.B.",
+    "obra": "Sonata para 2 cellos",
+    "partituraCello": "https://drive.google.com/file/d/19mrbs8Qlegl-7g3yBxfdr62EumsszUiK/view?usp=sharing"
+  },
+  {
+    "compositor": "Bartók, B.",
+    "obra": "18 dúos",
+    "partituraCello": "https://drive.google.com/file/d/1veaC0gZKk_-weIvM8oqy1O5jk7GSTn_1/view?usp=sharing",
+    "movimientos": [
+      {
+        "1. Midsummer Night Song": {
+          "cuenta": "Cuenta: 4 negras",
+          "92": "https://app.box.com/s/hfmsgedl445j9tarcj80sfxqrmt2wp10"
+        }
+      },
+      {
+        "2. Slovak Song": {
+          "cuenta": "Cuenta: 4 negras",
+          "72": "https://app.box.com/s/lmvobuch39s67hpg0t3k8xfg57xkjzs4"
+        }
+      },
+      {
+        "3. Teasing Song": {
+          "cuenta": "Cuenta: 4 negras",
+          "116": "https://app.box.com/s/ej5eavpab0wvvf66uaxn63ft0n3lr9yb"
+        }
+      },
+      {
+        "4. Mosquito Dance": {
+          "cuenta": "Cuenta: 4 negras (metrónomo constante)",
+          "120": "https://app.box.com/s/z7cmnts12az0uzr8tlrgo82010suhkuq"
+        }
+      },
+      {
+        "5. Lullaby": {
+          "cuenta": "Comienza el Cello II (metrónomo constante)",
+          "63": "https://app.box.com/s/1mreowjhgr68nvilyatzs1y5sn07pn6w"
+        }
+      },
+      {
+        "6. Dance": {
+          "cuenta": "Cuenta: 2 blancas (metrónomo constante)",
+          "80": "https://app.box.com/s/j3v8od9bg5g8ubbhrxun7gkkvtf6ok8v"
+        }
+      },
+      {
+        "7. Cushion Dance": {
+          "cuenta": "Comienza el Cello II (metrónomo constante)",
+          "116": "https://app.box.com/s/orl1ki3zlakqvg1581ntw8dw5xabtu13"
+        }
+      },
+      {
+        "8. Menuetto": {
+          "cuenta": "Comienza el Cello II (metrónomo constante)",
+          "108": "https://app.box.com/s/iajpd1c0hg7r2dip68haqx48l19x7cw9"
+        }
+      },
+      {
+        "9. Ruthenian Song": {
+          "cuenta": "Comienza el Cello II (metrónomo constante)",
+          "80": "https://app.box.com/s/xn8i9x3gervvloyppw97lt9cu9hhinn5"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Beethoven, L. van",
+    "obra": "Sonata Op.5 Nro 1, en Fa Mayor",
+    "partituraCello": "https://drive.google.com/file/d/1RyTkJPJqDxaF4UxBoFe7JvWqTJW4j6e9/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1vZabjC5NbPvYgV68CVmJBLQ2q0QtvQS4/view?usp=sharing"
+  },
+  {
+    "compositor": "Borodin, A.",
+    "obra": "Nocturno",
+    "partituraCello": "https://drive.google.com/file/d/18bOJNl7nlWcgzLNshIh4ojXOUDl62kyu/view?usp=sharing"
   }
 ]
