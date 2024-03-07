@@ -2,67 +2,110 @@
 <html lang="en">
 
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Cards</title>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Cards</title>
+  <style>
+    /* Estilos para las tarjetas */
+    .card {
+      border: 1px solid #ccc;
+      border-radius: 5px;
+      margin: 10px;
+      padding: 10px;
+    }
+  </style>
 </head>
 
 <body>
-    <div id="cardContainer"></div>
+  <input type="text" id="searchInput" placeholder="Buscar...">
+  <div id="cardContainer"></div>
 
-    <script>
-        fetch('https://fedesanchezdev.github.io/compositores/compositores.json')
-                .then(response => response.json())
-                .then(data => {
-                    let cardContainer = document.getElementById('cardContainer');
+  <script>
+    // Función para eliminar los acentos de una cadena
+    const removeAccents = (str) => {
+      return str.normalize("NFD").replace(/[\u0300-\u036f]/g, "");
+    };
 
-                    data.forEach(compositor => {
-                        let card = `
-                <div class="card">
-                    <header>
-                        <h2>${compositor.compositor}</h2>
-                        <h3>${compositor.obra}</h3>
-                    </header>
-                    <main>
-                        <details>
-                            <summary>Partitura</summary>
-                            <a href="${compositor.partituraCello}" target="_blank">Violoncello</a>
-                            ${compositor.partituraPiano ? `<a href="${compositor.partituraPiano}" target="_blank">Piano</a>` : ''}
-                        </details>
-                    </main>
-                    <footer>
-                        ${compositor.movimientos ? `
-                            <details>
-                                <summary>Movimientos</summary>
-                                ${compositor.movimientos.map(movimiento => {
-                            const nombreMovimiento = Object.keys(movimiento)[0]; // Obtener el nombre del movimiento
-                            const detallesMovimiento = movimiento[nombreMovimiento]; // Obtener detalles del movimiento
-                            const cuentas = detallesMovimiento.cuenta; // Obtener las cuentas
+    fetch('https://fedesanchezdev.github.io/compositores/compositores.json')
+      .then(response => response.json())
+      .then(data => {
+        const cardContainer = document.getElementById('cardContainer');
 
-                            // Construir enlaces con diferentes tempos
-                            const enlacesMovimiento = Object.keys(detallesMovimiento).filter(key => key !== 'cuenta').map(tempo => `
-                                        <a href="${detallesMovimiento[tempo]}" target="_blank">${tempo}</a>
-                                    `).join('');
+        // Función para generar una sola tarjeta
+        const generateCard = (compositor) => {
+          let card = document.createElement('div');
+          card.className = 'card';
 
-                            return `
-                                        <details>
-                                            <summary>${nombreMovimiento}</summary>
-                                            <p>${cuentas}</p>
-                                            ${enlacesMovimiento}
-                                        </details>
-                                    `;
-                        }).join('')}
-                            </details>
-                        ` : ''}
-                    </footer>
-                </div>
-            `;
+          card.innerHTML = `
+            <header>
+              <h2>${compositor.compositor}</h2>
+              <h3>${compositor.obra}</h3>
+            </header>
+            <main>
+              <details>
+                <summary>Partitura</summary>
+                <a href="${compositor.partituraCello}" target="_blank">Violoncello</a>
+                ${compositor.partituraPiano ? `<a href="${compositor.partituraPiano}" target="_blank">Piano</a>` : ''}
+              </details>
+            </main>
+            <footer>
+              ${compositor.movimientos ? `
+                <details>
+                  <summary>Movimientos</summary>
+                  ${compositor.movimientos.map(movimiento => {
+                    const nombreMovimiento = Object.keys(movimiento)[0].toLowerCase(); // Obtener el nombre del movimiento
+                    const detallesMovimiento = movimiento[nombreMovimiento]; // Obtener detalles del movimiento
+                    const cuentas = detallesMovimiento.cuenta; // Obtener las cuentas
 
-                        cardContainer.innerHTML += card;
-                    })
-                });
+                    // Construir enlaces con diferentes tempos
+                    const enlacesMovimiento = Object.keys(detallesMovimiento).filter(key => key !== 'cuenta').map(tempo => `
+                      <a href="${detallesMovimiento[tempo]}" target="_blank">${tempo}</a>
+                    `).join('');
 
-    </script>
+                    return `
+                      <details>
+                        <summary>${nombreMovimiento}</summary>
+                        <p>${cuentas}</p>
+                        ${enlacesMovimiento}
+                      </details>
+                    `;
+                  }).join('')}
+                </details>
+              ` : ''}
+            </footer>
+          `;
+
+          cardContainer.appendChild(card); // Agregar la tarjeta al contenedor
+        };
+
+        // Generar todas las tarjetas al cargar la página
+        data.forEach(compositor => {
+          generateCard(compositor);
+        });
+
+        // Función para filtrar y generar las tarjetas
+        const filterCards = () => {
+          const searchInput = removeAccents(document.getElementById('searchInput').value.toLowerCase());
+
+          const filteredCompositores = data.filter(compositor => {
+            // Convertir los datos a minúsculas y eliminar acentos para hacer la búsqueda insensible a mayúsculas y acentos
+            const compositorName = removeAccents(compositor.compositor.toLowerCase());
+            const obra = removeAccents(compositor.obra.toLowerCase());
+
+            return compositorName.includes(searchInput) || obra.includes(searchInput);
+          });
+
+          cardContainer.innerHTML = ''; // Limpiar el contenedor antes de volver a mostrar las tarjetas filtradas
+
+          filteredCompositores.forEach(compositor => {
+            generateCard(compositor); // Generar las tarjetas filtradas
+          });
+        };
+
+        // Agregar evento de escucha al campo de búsqueda
+        document.getElementById('searchInput').addEventListener('input', filterCards);
+      });
+  </script>
 </body>
 
 </html>

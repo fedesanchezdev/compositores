@@ -11,9 +11,8 @@
     "partituraPiano": "https://drive.google.com/file/d/17t2z9_qZQi9NIMqIVSII5sG-1yWu3SgA/view?usp=sharing",
     "movimientos": [
       {
-        "March in G": 
-        {
-          "cuenta":"Cuenta: 4 negras",
+        "March in G": {
+          "cuenta": "Cuenta: 4 negras",
           "60": "https://app.box.com/s/may6lcimh1g84w5reysxddzf2362p9yw",
           "63": "https://app.box.com/s/byrc47bns9dffdh5r6n6jkgfkdpgbaoi",
           "66": "https://app.box.com/s/27ep06ubl3wz9ry55jzzdi8nt2i171t3",
@@ -29,8 +28,7 @@
         }
       },
       {
-        "Sarabande":
-        {
+        "Sarabande": {
           "cuenta": "Cuenta: 3 negras",
           "50": "https://app.box.com/s/xz9fqjywkzduxajke2uli1h7yaimgucq",
           "52": "https://app.box.com/s/46sfn02s0sr79almu4vop0zslmbz133f",
@@ -43,7 +41,55 @@
           "69": "https://app.box.com/s/60shri9hybezptvv18nthagssxn3jdt5",
           "72": "https://app.box.com/s/nzmfcfv0y12o80aksu433vo6s731xmpo"
         }
-      }       
+      },
+      {
+        "Arioso": {
+          "cuenta": "Cuenta: 4 negras",
+          "40": "https://app.box.com/s/twss1yjz1bs732bo9evjbp4lphn2o9pd",
+          "42": "https://app.box.com/s/uoygs5nvozdlbpoleyjycunsgc6zfoe9",
+          "44": "https://app.box.com/s/xeqm1fxvcyq8cixa93nt19be4nuip51p",
+          "46": "https://app.box.com/s/bmy9o88r4czu4b1kkyvsrvkpjkeyvr4j",
+          "48": "https://app.box.com/s/y3cd54q7sh3zwk3je7fddxuhthdydh7y",
+          "50": "https://app.box.com/s/ju51xiqt4e5kpi6slas2y6f5rznnrqq3",
+          "52": "https://app.box.com/s/dic85p8pvpm2l8l3d2bfd2i2axhgr8c7",
+          "54": "https://app.box.com/s/peocjxos2lbkq572wcpbk3iobqheul3q",
+          "56": "https://app.box.com/s/3m6myym3io5yz8s0573qmg1um1b006oe",
+          "58": "https://app.box.com/s/0fc77kuoh45ofybwqamtlxw2e6esfpkc",
+          "60": "https://app.box.com/s/v8ydjm3t0dgqbwoq55ry16yyy1nzcsgs",
+        }
+      },
+      {
+        "Minuet in C": {
+          "cuenta": "Cuenta: 3 negras",
+          "60": "https://app.box.com/s/33cpv313qs0yele8ypy2zjb8q9qcen3a",
+          "63": "https://app.box.com/s/j6efmx2tuqrfwi4vwyoxja5e309t2csm",
+          "66": "https://app.box.com/s/lb1bsqga6uwcy4lnljuu6b9i0d7oryty",
+          "69": "https://app.box.com/s/9itx9cyietolrsu6ochzoq13lg87lwbb",
+          "72": "https://app.box.com/s/tfmtv91qrmakngcj3dgsbq0ed2kr11gz",
+          "76": "https://app.box.com/s/p7nlda72e1aq8v6jsfl86yufevmby872",
+          "80": "https://app.box.com/s/1d84ts921jg79578xjbz22ucniqe0b8z",
+          "84": "https://app.box.com/s/zz8zi5lwjyy8prhswmkshjmaui1wuav8",
+          "88": "https://app.box.com/s/ldi3bsuvio8pvc696q2rsumsn3fx1mvz",
+          "92": "https://app.box.com/s/9zek785wgrbvoyphocmcwc8vm9c07dnl",
+          "96": "https://app.box.com/s/bjo8c4m89b667klmvbz2rp86plcro07j",
+          "100": "https://app.box.com/s/siza6bp3o2cxzw3n5pwynm59mt9dadoc"
+        }
+      },
+      {
+        "Air": {
+          "cuenta": "Cuenta: 4 negras",
+          "40": "https://app.box.com/s/26v6fiqm5y98qm5rx977b1j9ud41ijo6",
+          "42": "https://app.box.com/s/zvdz0voytbxvexum81x3sk4bkob0mqaz",
+          "44": "https://app.box.com/s/iw4ze1joqqx1rbr9648mqs398ronszq1",
+          "46": "https://app.box.com/s/5k5sw89727ym38ggj92ffjcqo7hcejhe",
+          "48": "https://app.box.com/s/1sz99j50cnly8drsgp7dl6wi4a23xv69",
+          "50": "https://app.box.com/s/kgc4s2363n4yzu9xbpxoh4b5l5epaimq",
+          "52": "https://app.box.com/s/fnb9c1mi4pd4xroekatl1oobvb67gkkz",
+          "54": "https://app.box.com/s/oq88g8cpx79qxqvtdcvrkb8e9jrhtute",
+          "56": "https://app.box.com/s/661ecruzxv8l5831wpbqgnfzqz3fu7l1",
+          "58": "https://app.box.com/s/sg08hap1glu3x8jrcfghzq9swzrng799",
+        }
+      },
     ]
   }
 ]
