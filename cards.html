@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cards</title>
+</head>
+
+<body>
+    <div id="cardContainer"></div>
+
+    <script>
+        fetch('https://fedesanchezdev.github.io/compositores/compositores.json')
+                .then(response => response.json())
+                .then(data => {
+                    let cardContainer = document.getElementById('cardContainer');
+
+                    data.forEach(compositor => {
+                        let card = `
+                <div class="card">
+                    <header>
+                        <h2>${compositor.compositor}</h2>
+                        <h3>${compositor.obra}</h3>
+                    </header>
+                    <main>
+                        <details>
+                            <summary>Partitura</summary>
+                            <a href="${compositor.partituraCello}" target="_blank">Violoncello</a>
+                            ${compositor.partituraPiano ? `<a href="${compositor.partituraPiano}" target="_blank">Piano</a>` : ''}
+                        </details>
+                    </main>
+                    <footer>
+                        ${compositor.movimientos ? `
+                            <details>
+                                <summary>Movimientos</summary>
+                                ${compositor.movimientos.map(movimiento => {
+                            const nombreMovimiento = Object.keys(movimiento)[0]; // Obtener el nombre del movimiento
+                            const detallesMovimiento = movimiento[nombreMovimiento]; // Obtener detalles del movimiento
+                            const cuentas = detallesMovimiento.cuenta; // Obtener las cuentas
+
+                            // Construir enlaces con diferentes tempos
+                            const enlacesMovimiento = Object.keys(detallesMovimiento).filter(key => key !== 'cuenta').map(tempo => `
+                                        <a href="${detallesMovimiento[tempo]}" target="_blank">${tempo}</a>
+                                    `).join('');
+
+                            return `
+                                        <details>
+                                            <summary>${nombreMovimiento}</summary>
+                                            <p>${cuentas}</p>
+                                            ${enlacesMovimiento}
+                                        </details>
+                                    `;
+                        }).join('')}
+                            </details>
+                        ` : ''}
+                    </footer>
+                </div>
+            `;
+
+                        cardContainer.innerHTML += card;
+                    })
+                });
+
+    </script>
+</body>
+
+</html>
