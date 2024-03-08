@@ -681,5 +681,174 @@
         }
       }
     ]
+  },
+  {
+    "compositor": "Martinů, B.",
+    "obra": "Suite Miniature",
+    "partituraCello": "https://drive.google.com/file/d/1C5YXZg58JnNBz1G2AO4ueHE67obJzYoz/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1P0Ca7LcJoZKApfivxJIXtZjCjzPv1KKV/view?usp=sharing",
+    "movimientos": [
+      {
+        "I - Moderato": {
+          "cuenta": "Comienza el Piano",
+          "60": "https://app.box.com/s/wkchxekr2bwqbozkkmcaoqhn21hj26ox",
+          "63": "https://app.box.com/s/ku3l9xq5orkpuhw7vubjqzlxifg21kxb",
+          "66": "https://app.box.com/s/xckm84frl7bc5tcya95470fuhz9mb8e9",
+          "69": "https://app.box.com/s/4vtwrsu5885lyppnes2m67ohzd4kqzft",
+          "72": "https://app.box.com/s/1059vzac4y4o2i5nly1aaksht34iaxyi",
+          "76": "https://app.box.com/s/srofzu3socivyt23bqaacgldkoru5lll",
+          "80": "https://app.box.com/s/f1u5n5j5ax5mh6vfmn7c3fi34wph2m3v",
+          "84": "https://app.box.com/s/79rn7d58pfk7nsq2uitxpwavy47t1nbf",
+          "88": "https://app.box.com/s/62ggn5zr0erfptrv2emfefff2hc76bc4",
+          "92": "https://app.box.com/s/d8tc4mxlyyr1udc9enkz9p8q2qnqcvy9",
+          "96": "https://app.box.com/s/7qbe5z95r1qur5ktnabjsmbw80fp6h0u",
+          "100": "https://app.box.com/s/5bhvayk9rrdr8kl9amx6s4mb1de5bhor",
+          "104": "https://app.box.com/s/pl09n5llyrb65t4qzbnbxer48vrew0nz",
+          "108": "https://app.box.com/s/lentyza30c46g76qi2iutsr11dl6s2qu",
+          "112": "https://app.box.com/s/4bolu1l63gf1r54zxnozpuwrpzri6f7o",
+          "116": "https://app.box.com/s/q6qyiv70wbuqtkice6uhuzk9fxuil018",
+          "120": "https://app.box.com/s/z3j4s8h24b1x0crjieg7tw7vex1jtj8b"
+        }
+      },
+      {
+        "II - Poco andante": {
+          "cuenta": "Cuenta: 4 negras",
+          "60": "https://app.box.com/s/21pw4oepguefahxjvsjtm0s6br2vf89i",
+          "63": "https://app.box.com/s/4dg67dpwdmwjy6o16v951hhdkmaocw8p",
+          "66": "https://app.box.com/s/vskox2rtyj6mwe4f8oaps9nrh55gp5yi",
+          "69": "https://app.box.com/s/e4k4vksipy6919wwj4nah7kjlfdahwlu",
+          "72": "https://app.box.com/s/tbqlzn7pdqpess71pebu43146y2e22g0",
+          "76": "https://app.box.com/s/l54lphizhbas7otkkugoa1losus8gn1n",
+          "80": "https://app.box.com/s/lwr5uvqgsr7bio8omk5rmcs3y9zzdwmm",
+          "84": "https://app.box.com/s/d6rl03o3msyi6nonciv7hm0rcxbiicyd",
+          "88": "https://app.box.com/s/ugqztadlog24y2ewd16644zo24qvqy33",
+          "92": "https://app.box.com/s/ax8dn18kxprurmjeshs0j32lspw0680b",
+          "96": "https://app.box.com/s/pplrwtqlex4w93ivtarz9jg8deur6e0m",
+          "100": "https://app.box.com/s/5gc3x8l2zeth86qxppoa6tkdn5k9my04"
+        }
+      },
+      {
+        "III - Poco moderato": {
+          "cuenta": "Comienza el Piano",
+          "60": "https://app.box.com/s/mc7gy11yp2lqeivkpzp0bekh50hdcigp",
+          "63": "https://app.box.com/s/9cvb0r3kjrjgh3r2puap1ewo41i1shml",
+          "66": "https://app.box.com/s/1ntle18pstr2cgu4quo9q1vh0fzm9jb2",
+          "69": "https://app.box.com/s/ybb3x0c63bkj068t8sobmla64l0e7nzq",
+          "72": "https://app.box.com/s/vkujvi4k2c0i5l2bq1zukgbbaktxcgmm",
+          "76": "https://app.box.com/s/lw9d25dnh5f6udicyz0lsmxl5i0rns57",
+          "80": "https://app.box.com/s/6mb5lck22nwxe8xqkf6nfnnb9ii9hyaj",
+          "84": "https://app.box.com/s/bqkw72qfnw02sgpaar6talhlxsxjxnvs",
+          "88": "https://app.box.com/s/xq3tu0khplbtfp6ud6asewf98gd17y26",
+          "92": "https://app.box.com/s/paxofff7kq5exgcifmd3o41oip9l8srj",
+          "96": "https://app.box.com/s/flcvd95ryawl90dxoxhzev8jinpbtr6h",
+          "100": "https://app.box.com/s/2g6gvwxdge16s12fyxgsozxcrxnex3h7",
+          "104": "https://app.box.com/s/fgni3dzog76jqav97log4ggk043crayv",
+          "108": "https://app.box.com/s/qxc72yhwm8lgii9rb2q7ost7txc1cwu8",
+          "112": "https://app.box.com/s/olltdhkh2v7q8o7lx6wo1ocynvogwsdr",
+          "116": "https://app.box.com/s/x6hurr8am9b85ux7mu8104w2pucnwqxp",
+          "120": "https://app.box.com/s/bkgmjcu36wnlq3kimj348os3i7mf1q0y"
+        }
+      },
+      {
+        "IV - Andante": {
+          "cuenta": "Comienza el Piano",
+          "50": "https://app.box.com/s/x25qhq8znxc37dfbejhk3qgpxg24vg80",
+          "52": "https://app.box.com/s/9wimhwpcztvgnlxqbsqbbstvpin65os1",
+          "54": "https://app.box.com/s/lx9p2gkvah005890b1sajzty7nyede4k",
+          "56": "https://app.box.com/s/cfs66o9yc4ennvaivsuxiulwp61cirhq",
+          "58": "https://app.box.com/s/ph8vv7s39cv2sbzjsba6g04xmw3gtb10",
+          "60": "https://app.box.com/s/3gykkkcqr7x647uxa95eplfpd8c2w7rc",
+          "63": "https://app.box.com/s/fovfkiazpfw9wdp6ngo2zj90h3f3hfsc",
+          "66": "https://app.box.com/s/jyv71e4808f72qb0jpqpfirzvs1g6cpj",
+          "69": "https://app.box.com/s/9kqbf7bhyk5p4euucwmtiihqugj5wki0",
+          "72": "https://app.box.com/s/8sky43lql16oylfdhhn731krv71ntsy2",
+          "76": "https://app.box.com/s/u0mtp4jlj500417pynbr2wek6dq54h1q",
+          "80": "https://app.box.com/s/x472vrcp89x8l6kc5m3yhn37ed7dn0gg",
+          "84": "https://app.box.com/s/wusbyzraifp323xeu1xtm6xuq43it8ap",
+          "88": "https://app.box.com/s/tou2c5q84yaaa8m9wx92ctp8hqq6mzk3"
+        }
+      },
+      {
+        "V - Poco allegro": {
+          "cuenta": "Cuenta: 3 negras",
+          "72": "https://app.box.com/s/i69ofu7dgxumyfbq8rh094u0crsblbkm",
+          "76": "https://app.box.com/s/ijhedwimc2gujnd2djccqrsag63gl3nx",
+          "80": "https://app.box.com/s/d8nunvw4x7wydzohkq0vv5ceom1dbe4y",
+          "84": "https://app.box.com/s/kcr8hayajyapijecfgnbz103gqmbucim",
+          "88": "https://app.box.com/s/0bl3jhammusx3k075vquox85qo8phdja",
+          "92": "https://app.box.com/s/aaxo6tgpxglxvmgc0zsol11jkgfjfpcp",
+          "96": "https://app.box.com/s/1noo75k5sdnodwrwtlbv02cu5yd5q1gg",
+          "100": "https://app.box.com/s/6esxrzh3hxqw5p9v7kr4e7kd7rvmljor",
+          "104": "https://app.box.com/s/vpq2hhoojn63cd3pj0xs0cl130ckaarp",
+          "108": "https://app.box.com/s/f7s5p3tskchvb6hxq9cmjm5bxd7plpcm",
+          "112": "https://app.box.com/s/xpydak2ke6x4hs1mw4jug9zg7em4ua4j",
+          "116": "https://app.box.com/s/hvqbgr7ye09m1qgnosmqr1yq5j9zt75h",
+          "120": "https://app.box.com/s/ld0ft6b97wprv4gd4u9jc7or8sv32yzc",
+          "126": "https://app.box.com/s/slamje2hcbuywhdqwhj31p7fbnukuxps"
+        }
+      },
+      {
+        "VI - Allegretto": {
+          "cuenta": "Cuenta: 3 compases (en 1)",
+          "40": "https://app.box.com/s/u65xtvm0oa9321q91drpczfsc47se1mg",
+          "42": "https://app.box.com/s/tfib0ccwyi7pyh4fnv7swzvnuor23rgx",
+          "44": "https://app.box.com/s/z5i8ej6320q1ojwah8nikyoyrc9tff93",
+          "46": "https://app.box.com/s/ut8gqjolfnvfft12k06985gge0tas1y3",
+          "48": "https://app.box.com/s/4yqtxuyr4dytvionzute3qs5b2ijr6ra",
+          "50": "https://app.box.com/s/glqsu0nzo6pv8fl2bikq34istg35d1ry",
+          "52": "https://app.box.com/s/i0ohdjaboc4wvru8yu4z6eqea0sbi96b",
+          "54": "https://app.box.com/s/12ve0atlkpplkg5nqpv53r0k5u3ns7gt",
+          "56": "https://app.box.com/s/13f3oy577x16e0wp4fbmvtuxy0qf6ypl",
+          "58": "https://app.box.com/s/hr5zqrpg7si3m6bmt3awwoknxg8soqku",
+          "60": "https://app.box.com/s/14digrcmbera8t6gi1yp1vi9aocu2bdm",
+          "63": "https://app.box.com/s/mb4a7zlstu4cvut7hx0lsqtio0rzcfls",
+          "66": "https://app.box.com/s/z9xg05uspilaoauidyx2enbe402rjo8e",
+          "69": "https://app.box.com/s/nithwa7fshx3tu252ljfny0bpb5boh0h"
+        }
+      },
+      {
+        "VII - Moderato": {
+          "cuenta": "Comienza el Piano",
+          "80": "https://app.box.com/s/emzvepzke72siw9x6lt83pqf2jobw61p",
+          "84": "https://app.box.com/s/5aeqjdilup1v7nm1h9clh75duzfx6vb6",
+          "88": "https://app.box.com/s/zzqimemn8a29n2lj5qb71zg71jdeby03",
+          "92": "https://app.box.com/s/zb1ud2kruoxpn63b7egfip3e3h5oz365",
+          "96": "https://app.box.com/s/5wjh1fn575lo2eb9i6beupoc59gsvpdz",
+          "100": "https://app.box.com/s/bskp687ot1f6h4i2zaczuc6sayx789td",
+          "104": "https://app.box.com/s/kxad7ffla93kz4ke0c6smwzcck7b0qnh",
+          "108": "https://app.box.com/s/qjznchvgp8k10wztmk01z6bvdpsp8vv0",
+          "112": "https://app.box.com/s/rdgxb73c8fioxuo4gxdq304e4x5jbeem",
+          "116": "https://app.box.com/s/4t2zcf6resyu8vx3ozvsbnpghq5q90vt",
+          "120": "https://app.box.com/s/85s257u0rg5algd3pps0xe24pu6axx7d",
+          "126": "https://app.box.com/s/rll65i9mumipe1pgeqi9att1j3l3m6yx",
+          "132": "https://app.box.com/s/q6js393ko61z3xve5hplgpbgjc2ey54s",
+          "138": "https://app.box.com/s/fx2pjbmf7i4rz3csj3wwpldl465su2fc"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Mendelssohn, F.",
+    "obra": "Auf Flügeln des Gesanges",
+    "partituraCello": "https://drive.google.com/file/d/1H0qysyGU8kMslAa9EbKLitMu8ss3bw4H/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1yC4F-_H-LC4w9UD6v-fiDk6IjKmv6z60/view?usp=sharing",
+    "movimientos": [
+      {
+        "": {
+          "cuenta": "Comienza el Piano",
+          "36": "https://app.box.com/s/98vf994ec0rtf2o9cdd5wcnyz0fz1qhy",
+          "38": "https://app.box.com/s/jbwxyre5dsrvc80m1ggxkh4qd44oxj27",
+          "40": "https://app.box.com/s/ydxqg6r9z96ieojdzk7fcvng300i6z59",
+          "42": "https://app.box.com/s/vgln1wip1r10tvw907gorzmya7rxmi97",
+          "44": "https://app.box.com/s/uzqyb5z1qpk6z0itqjzqk90bvv8l12zi",
+          "46": "https://app.box.com/s/jfpbuur3yw30eu55ed2bnp1gailjnflm",
+          "48": "https://app.box.com/s/wk8sdtqtmp1cc8xmokzgrtuslbkdhdtz",
+          "50": "https://app.box.com/s/i690bklo2t7k91phvt2ndehcvt8r7s2z",
+          "52": "https://app.box.com/s/brggqlm8gnzv9lidmyx1elpbjedvv2g5",
+          "54": "https://app.box.com/s/mchmlhhb96ii3woqm1h0pgr8w3y6a322",
+          "56": "https://app.box.com/s/tesiq8s9ql4pgw18uoelsjhxjwvkjt3u"
+        }
+      }
+    ]
   }
 ]
