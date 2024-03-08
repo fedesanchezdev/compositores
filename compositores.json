@@ -441,5 +441,68 @@
         }
       }
     ]
+  },
+  {
+    "compositor": "Debussy, C.A.",
+    "obra": "Rêverie",
+    "partituraCello": "https://drive.google.com/file/d/1lvzS4qZikvNp0FRLVObDLm1NV0ehY9n_/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1NTxBLSOBCRt1XFWQt-Twn9UGjDheLUCK/view?usp=sharing",
+    "movimientos": [
+      {
+        "Rêverie": {
+          "cuenta": "Comienza el Piano",
+          "92": "https://app.box.com/s/pc8rxk8h68rm672cb9c6hqxjf8bi871d"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Debussy, C.A.",
+    "obra": "Romance",
+    "partituraCello": "https://drive.google.com/file/d/1WZMJPM6wJ8czZIQoLe-F7sJ8CiB916xR/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1W_NCaRYJ7btFMNBrov1_L86rDa-qic0I/view?usp=sharing",
+    "movimientos": [
+      {
+        "Romance": {
+          "cuenta": "Comienza el Piano",
+          "58": "https://app.box.com/s/8zp60dom01813am52ddka14fe401juco"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "113 Estudios - Libro I",
+    "partituraCello": "https://drive.google.com/file/d/15Cg7IiNV-1t4SpbyHK12FaUB03xisCkj/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "113 Estudios - Libro II",
+    "partituraCello": "https://drive.google.com/file/d/1eMUBLocGCSy8u3JBg9qW5nM4kFPu0DK9/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "113 Estudios - Libro III",
+    "partituraCello": "https://drive.google.com/file/d/1KtBrEznqa0Dw4bVfIQ2zGEyn8SpjcsF1/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "113 Estudios - Libro IV",
+    "partituraCello": "https://drive.google.com/file/d/133lv6ds1RTFftMQhoB0_FF9PdiMmI9I7/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "Método - Libro I",
+    "partituraCello": "https://drive.google.com/file/d/1yl-Lp6sg3qitUMHD1fPkJ4QXU9YW0GcU/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "Método - Libro II",
+    "partituraCello": "https://drive.google.com/file/d/1Wh85E71DlifkGw2iRYqAUM5MbKqf0I0d/view?usp=sharing"
+  },
+  {
+    "compositor": "Dotzauer, J.J.F.",
+    "obra": "Método - Libro III",
+    "partituraCello": "https://drive.google.com/file/d/1v_6x402rkw_gOv22ZXQ9q9MM2H8VjUUS/view?usp=sharing"
   }
 ]
