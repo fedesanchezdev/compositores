@@ -557,8 +557,22 @@
     "compositor": "Franchomme, A.",
     "obra": "12 Estudios",
     "partituraCello": "https://drive.google.com/file/d/15M66kaHWiRZGJaHIn-wa0NOtxK7E0qPr/view?usp=sharing"
+  },
+  {
+    "compositor": "Gabrielli, D.",
+    "obra": "Canon a 2",
+    "partituraCello": "https://drive.google.com/file/d/1UJ90nmI7TV6XHfRNRNacomzxi2k3AI1y/view?usp=sharing",
+    "movimientos": 
+      {
+        "cuenta": "Comienza el Piano",
+        "58": "https://app.box.com/s/xhemmezoo7n09jwvq3385ylmaozbbhn7",
+        "60": "https://app.box.com/s/bbwkkmdw38v22g43b29ogaelp7eschky",
+        "63": "https://app.box.com/s/tmiksf5ii528thg38f5hremzufal85uq",
+        "66": "https://app.box.com/s/6c60ka6awwjpfnb8c236euffc7txtcn1",
+        "69": "https://app.box.com/s/at6ap6nrzmt8vhdnm8rc6wxp822wg291",
+        "72": "https://app.box.com/s/dqwwxoz0kxy90rqij56vmyv98ki8wji5",
+        "76": "https://app.box.com/s/dxxoyxh51lgafdvkliv42cikrbpehd7u",
+        "80": "https://app.box.com/s/h8f2jof2m072sluxilhz1ezslo7yel8t"
+      } 
   }
-
-
-  
 ]
