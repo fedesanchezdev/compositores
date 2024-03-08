@@ -504,5 +504,61 @@
     "compositor": "Dotzauer, J.J.F.",
     "obra": "Método - Libro III",
     "partituraCello": "https://drive.google.com/file/d/1v_6x402rkw_gOv22ZXQ9q9MM2H8VjUUS/view?usp=sharing"
+  },
+  {
+    "compositor": "Duport, J.L.",
+    "obra": "21 Estudios",
+    "partituraCello": "https://drive.google.com/file/d/1zVFZxIAq7heNDN1RwKk6srJFovC-kgQN/view?usp=sharing"
+  },
+  {
+    "compositor": "Dvořák, A.",
+    "obra": "Melodía",
+    "partituraCello": "https://drive.google.com/file/d/1wKVbG1vY8-QfyUV_ld5NQtCWVNkL2LlZ/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/133yFuD5vW7LZgJtgjABu6oCrpFka7kBL/view?usp=sharing"
+  },
+  {
+    "compositor": "Elgar, E.",
+    "obra": "Salut d'Amour",
+    "partituraCello": "https://drive.google.com/file/d/1gRpwX_wTiZ_p425ppVfKDCdW9BQUpirO/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1g0LK9acmH7Lg_FNaoulOjz-B31KB1Gvd/view?usp=sharing"
+  },
+  {
+    "compositor": "Fauré, G.",
+    "obra": "Élégie",
+    "partituraCello": "https://drive.google.com/file/d/18MypM-1IPA4KGJJL4tkHy7sf_YBWKOKT/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1vSHSgTUKP5o5LXv8hu8SB98tcuRMI2fd/view?usp=sharing",
+    "movimientos": [
+      {
+        "Élégie": {
+          "cuenta": "Comienza el Piano",
+          "58": "https://app.box.com/s/xhemmezoo7n09jwvq3385ylmaozbbhn7",
+          "60": "https://app.box.com/s/bbwkkmdw38v22g43b29ogaelp7eschky",
+          "63": "https://app.box.com/s/tmiksf5ii528thg38f5hremzufal85uq",
+          "66": "https://app.box.com/s/6c60ka6awwjpfnb8c236euffc7txtcn1",
+          "69": "https://app.box.com/s/at6ap6nrzmt8vhdnm8rc6wxp822wg291",
+          "72": "https://app.box.com/s/dqwwxoz0kxy90rqij56vmyv98ki8wji5",
+          "76": "https://app.box.com/s/dxxoyxh51lgafdvkliv42cikrbpehd7u",
+          "80": "https://app.box.com/s/h8f2jof2m072sluxilhz1ezslo7yel8t"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Feuillard, L.R.",
+    "obra": "Ejercicios diarios",
+    "partituraCello": "https://drive.google.com/file/d/1YvemwXg1iALMlth2-LurEyFFuKFQj23w/view?usp=sharing"
+  },
+  {
+    "compositor": "Feuillard, L.R.",
+    "obra": "Studies of the young cellist",
+    "partituraCello": "https://drive.google.com/file/d/1eSgSN_4qJpSK24ac9wLUbnBYDXJ0uZQN/view?usp=sharing"
+  },
+  {
+    "compositor": "Franchomme, A.",
+    "obra": "12 Estudios",
+    "partituraCello": "https://drive.google.com/file/d/15M66kaHWiRZGJaHIn-wa0NOtxK7E0qPr/view?usp=sharing"
   }
+
+
+  
 ]
