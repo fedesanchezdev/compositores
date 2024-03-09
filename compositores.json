@@ -1236,5 +1236,108 @@
         }
       }
     ]
+  },
+  {
+    "compositor": "Saint-Saëns, C.",
+    "obra": "El Cisne",
+    "partituraCello": "https://drive.google.com/file/d/1qnSyEt4aTcg8WKuw64bwJl_jZciTlnR7/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1XqDlYF7MAlay-kRO0uYUgM2S2XYAAqzY/view?usp=sharing",
+    "movimientos": [
+      {
+        "El Cisne": {
+          "cuenta": "Comienza el Piano",
+          "56": "https://app.box.com/s/nr2xuiggpyq9rhgzae40tfc0nw76mlbb",
+          "58": "https://app.box.com/s/hf8mqs6b7ue9czt8pcogu5hxtz29mn74",
+          "60": "https://app.box.com/s/zhsrunvjk9wxgc3rgt0y50410qz5p7lw",
+          "63": "https://app.box.com/s/xaz8n2w2l7tmcklfhks5t6esgqn0nb0z",
+          "66": "https://app.box.com/s/pcdwovv7fr0vkt5smpdavsinmx4wrcuy",
+          "69": "https://app.box.com/s/iy0a47a5wysrb3brq8b48yfi6zhdonwj",
+          "72": "https://app.box.com/s/axajiwdjub8rh7bio84gch3482djqqqx"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Saint-Saëns, C.",
+    "obra": "Mon coeur s'ouvre a ta voix",
+    "partituraCello": "https://drive.google.com/file/d/1EYfk-5g8AdYw4Tgc4_HAsHUVTBmYOaTT/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1XqvqLe3qwpWn4tExoaCO1HWtg8zdOVDH/view?usp=sharing",
+    "movimientos": [
+      {
+        "Mon coeur...": {
+          "cuenta": "Comienza el Piano",
+          "52": "https://app.box.com/s/rbur5xcxsiavjcfdm3cl607bs1tydo63",
+          "54": "https://app.box.com/s/71i0shu08iup880z2tsffqdh059w3zx1",
+          "56": "https://app.box.com/s/szz8aplik74ghqo1nocfjgtb0km4pnia",
+          "58": "https://app.box.com/s/4jhbrji1oc6x142bnbzb7en64wmqdmlq",
+          "60": "https://app.box.com/s/7tbotg3il662x8i0ut7z48i8hia75cvo",
+          "63": "https://app.box.com/s/8macbx3atiwj027sakekru9top1g5wa6",
+          "66": "https://app.box.com/s/vzzcyju3cqto9h8hwaytib77dtr2ogkg",
+          "58 S/M": "https://app.box.com/s/r5a3wov2r2nfyuv5yotmqmuao4ji4uc2"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Sakamoto, R.",
+    "obra": "Bibo No Aozora (Arr.)",
+    "partituraCello": "https://drive.google.com/file/d/1BMZIlo1yWS9wd95R-ItvPWU7yrW-_Veo/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1BMFT2pM4eQr9kADOK85LnVkpM1zYHlWh/view?usp=sharing",
+    "movimientos": [
+      {
+        "Bibo No Aozora": {
+          "cuenta": "Cuenta: 4 negras + 2 silencios",
+          "72 (Piano)": "https://drive.google.com/file/d/1BMFT2pM4eQr9kADOK85LnVkpM1zYHlWh/view?usp=sharing",
+          "72 (Vln. y Pno.)": "https://app.box.com/s/oona2kcgn6wmw2asbo0nujqxudrpu5ek"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Sakamoto, R.",
+    "obra": "Merry Christmas Mr. Lawrence",
+    "partituraCello": "https://drive.google.com/file/d/1JzDY6y8QFu7z6dqbDoo06jBE3bhFhWvS/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1K3gzfNp15ibkHtYB2GL1HXO0g0K1-8tL/view?usp=sharing",
+    "movimientos": [
+      {
+        "Merry Christmas...": {
+          "cuenta": "Comienza el Piano",
+          "60": "https://app.box.com/s/399bri7h2mk09z9v708gpezk1xu6gfuf"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Satie, E.",
+    "obra": "Gymnopédie Nro 1",
+    "partituraCello": "https://drive.google.com/file/d/1QsQs_LnRUviWbdxHzRqJkFQHn-Z7hsfH/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1HBwcxW7D_RdDYvP7rkIYrl7jVjNlf-su/view?usp=sharing",
+    "movimientos": [
+      {
+        "Gymnopédie Nro 1": {
+          "cuenta": "Comienza el Piano",
+          "72": "https://app.box.com/s/j62rfh7ub5c86pe7xxqnpvk06vdlhcui"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Tartini, G.",
+    "obra": "Sarabande",
+    "partituraCello": "https://drive.google.com/file/d/1i4rjUSXAy1bsTackogbe4bbMN0na0kwr/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1_hHx9e7E2_79VkWCjyuBH3frWb7WVGWX/view?usp=sharing",
+    "movimientos": [
+      {
+        "Sarabande": {
+          "cuenta": "Cuenta: 3 negras",
+          "40": "https://app.box.com/s/3ldmqei79w5ne9sy5sg232jz5s5grduo",
+          "42": "https://app.box.com/s/fcsdd70dtmi40v95hvggfvd7cdcu3bi9",
+          "44": "https://app.box.com/s/jaukpwebyjviuy8v4cv3lo6mxbb7nwmz",
+          "46": "https://app.box.com/s/7qpqn0qimvzv8p3xas2sush548bvuswx",
+          "48": "https://app.box.com/s/jstwm1qltkabjgflon69ptqj4v010r3f",
+          "50": "https://app.box.com/s/nsqez9jit4v8tdd4811bxzqc2vy9z1sj"
+        }
+      }
+    ]
   }
 ]
