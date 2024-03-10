@@ -493,7 +493,46 @@
   {
     "compositor": "Dotzauer, J.J.F.",
     "obra": "Método - Libro I",
-    "partituraCello": "https://drive.google.com/file/d/1yl-Lp6sg3qitUMHD1fPkJ4QXU9YW0GcU/view?usp=sharing"
+    "partituraCello": "https://drive.google.com/file/d/1yl-Lp6sg3qitUMHD1fPkJ4QXU9YW0GcU/view?usp=sharing",
+    "movimientos": [
+      {
+        "Nro 3": {
+          "cuenta": "Cuenta: 4 negras (Sin repeticiones)",
+          "54": "https://app.box.com/s/gl601mkm8bn6h19g8ebd2dna092gwdnx",
+          "56": "https://app.box.com/s/izyngype6k1052osvivjnmupib5vdj8c",
+          "58": "https://app.box.com/s/t1131w23ic75af5bnailrawwuo79s1if",
+          "60": "https://app.box.com/s/6kbgy2334kj6vsl11op1e45k137popxv"
+        }
+      },
+      {
+        "Nro 4": {
+          "cuenta": "Cuenta: 4 negras",
+          "54": "https://app.box.com/s/uu6tt5ezyusq1f52l5s9pvb5d2dsl99e",
+          "56": "https://app.box.com/s/xzq13k39qq48j63th70t9c5xqhmtriby",
+          "58": "https://app.box.com/s/sco7hzl7nahiggt6oigpl1geb7q6oot2",
+          "60": "https://app.box.com/s/vyf203oubujf2m6qwhv62tmbyduhyryg"
+        }
+      },
+      {
+        "Nro 5": {
+          "cuenta": "Cuenta: 4 negras",
+          "54": "https://app.box.com/s/wufpr5w3a5eo1cgigsf2q6ojlnbil9z7",
+          "56": "https://app.box.com/s/dmogr91ybf0b5kqzlr2pyxue03r9vdjq",
+          "58": "https://app.box.com/s/ilsohcl1gsrrj5brj9w7pnlx1j4bquua",
+          "60": "https://app.box.com/s/vkehfom8lxku5lcbz6a8eigpamtjj1r2"
+        }
+      },
+      {
+        "Nro 6": {
+          "cuenta": "Cuenta: 4 negras",
+          "60": "https://app.box.com/s/tg6pxqfsvmr4rndr85wsippmliovui23",
+          "63": "https://app.box.com/s/1ly27zzar0pac6i56ti9gagfk3a26qp8",
+          "66": "https://app.box.com/s/vkv6j6jqb2fhuckpe246s8xyokmj0jxd",
+          "69": "https://app.box.com/s/wjbfzrmbumsonebnq9skkdxupmt2hsn9",
+          "72": "https://app.box.com/s/rfsncs3b6diwwza0x3a8uj86dni6gc4g"
+        }
+      }
+    ]
   },
   {
     "compositor": "Dotzauer, J.J.F.",
