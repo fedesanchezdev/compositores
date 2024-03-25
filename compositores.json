@@ -491,7 +491,6 @@
     "partituraCello": "https://drive.google.com/file/d/133lv6ds1RTFftMQhoB0_FF9PdiMmI9I7/view?usp=sharing"
   },
   {
-    "id": "dotzauerM1",
     "compositor": "Dotzauer, J.J.F.",
     "obra": "Método - Libro I",
     "partituraCello": "https://drive.google.com/file/d/1yl-Lp6sg3qitUMHD1fPkJ4QXU9YW0GcU/view?usp=sharing",
@@ -688,6 +687,45 @@
           "63": "https://app.box.com/s/1wjsqxibq35igymlyf3kzbm2uwxd7da9",
           "66": "https://app.box.com/s/sgp34xfyzp63bcjh96szznvku6khfdhs",
           "69": "https://app.box.com/s/caoljq9nvnyt1oeyn2e76eqyhivilgi7"
+        }
+      },
+      {
+        "Nro 34": {
+          "cuenta": "Cuenta: 4 negras",
+          "58": "https://app.box.com/s/s4fe1wmpc20zcbvikxmn3u0asdnqd13k",
+          "60": "https://app.box.com/s/l30o3rx18duutwjlduoafgwymmxwd64i",
+          "63": "https://app.box.com/s/mvl68ee8xcawikzmx369adoatg3pja14",
+          "66": "https://app.box.com/s/6ovt4ggk7rtqwlzgvqmd92isu0z24v5i",
+          "69": "https://app.box.com/s/m3wd4bvjbvce456kx6gckc29gk9xiyo8",
+          "72": "https://app.box.com/s/jbxgr4d6j7t8jh2emlee4hkiquq72bhj",
+          "76": "https://app.box.com/s/dcsmvcg6cvwzjv7miybpgrf91r5r9xvn",
+          "80": "https://app.box.com/s/oe6kpzke5k4df8qa5saqmmcsu081yqqn"
+        }
+      },
+      {
+        "Nro 38": {
+          "cuenta": "Cuenta: 4 negras",
+          "46": "https://app.box.com/s/ukcnbz9sv1u4y6ciwe0ftoqpla8yekxa",
+          "48": "https://app.box.com/s/vtz8v6v7934kvte4xkmglmepzg7acm4f",
+          "50": "https://app.box.com/s/cxsnrefxcdmhfpeae0n85ac5dyxyq8sv",
+          "52": "https://app.box.com/s/uu3dpuj5qcn5rgpfjj05smixrvbdvoh2",
+          "54": "https://app.box.com/s/hm7yss5nfr4nmaln38mqysi5s6l31mad",
+          "56": "https://app.box.com/s/pylbzcmjnwttozwu7l95sxbqjgnt1ujo",
+          "58": "https://app.box.com/s/ge626dns1443ae6kxayfd40wj1r9wsxq",
+          "60": "https://app.box.com/s/0hbgd94nia9yfb5k850peos1gmmyz4kk"
+        }
+      },
+      {
+        "Nro 40": {
+          "cuenta": "Cuenta: 3 negras",
+          "69": "https://app.box.com/s/5saexlspno3ddeoihhzik8ijnh86n3ky",
+          "72": "https://app.box.com/s/8tyxqdxgtkhkijq9tbretvz2su3esooq",
+          "76": "https://app.box.com/s/djmxl8pagvolfsm2m8jmxt6mw76he92q",
+          "80": "https://app.box.com/s/zxpwl6zk8hqbviqcj8dz9njl43exl97n",
+          "84": "https://app.box.com/s/cz30fgltnicusluah2vmapvqawji8hgq",
+          "88": "https://app.box.com/s/lnid3cbsbe5tg9hz8vf2qgonwvwbcdfq",
+          "92": "https://app.box.com/s/nhd0p4cb2c4seb4vi6gdzw2d0pe3ejij",
+          "96": "https://app.box.com/s/11t16ik0j2jkjwgue55ub8vmsr4fukfs"
         }
       }
     ]
