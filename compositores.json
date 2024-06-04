@@ -727,6 +727,19 @@
           "92": "https://app.box.com/s/nhd0p4cb2c4seb4vi6gdzw2d0pe3ejij",
           "96": "https://app.box.com/s/11t16ik0j2jkjwgue55ub8vmsr4fukfs"
         }
+      },
+      {
+        "Nro 43": {
+          "cuenta": "Cuenta: 4 negras",
+          "56": "https://app.box.com/s/4kkabqn340cwmkmft73qra247qs8qhvz",
+          "58": "https://app.box.com/s/i2672pitxsnv6urmvwnn10nddnua94z6",
+          "60": "https://app.box.com/s/m9im70bxjcnzxpe6ejlvld8x51eg3rcy",
+          "63": "https://app.box.com/s/908p7wq9sqnwc26myeg2lit384caz4do",
+          "66": "https://app.box.com/s/hnt8ll766rgth0i71mpm920gvaomyead",
+          "69": "https://app.box.com/s/n5gmh50rh8tlxveun3qovooa4pvez0o9",
+          "72": "https://app.box.com/s/ujmqud1c8at4r45kx85r2c97joxloeop",
+          "76": "https://app.box.com/s/za80j4lkvhnjpuyzmqxqg65ji75bdbyl"
+        }
       }
     ]
   },
@@ -1204,6 +1217,20 @@
           "168": "https://app.box.com/s/cs30d3kwrwgsyk0200bzpm1qeqkizxp0",
           "176": "https://app.box.com/s/7c3gc01roqbwrgf1as82ak0obdv8ihbz",
           "184": "https://app.box.com/s/1f2wowgd1yik6lc7midmntkq59xaathe"
+        }
+      }
+    ]
+  },
+  {
+    "compositor": "Piazzolla",
+    "obra": "Café 1930 (La historia del tango",
+    "partituraCello": "https://drive.google.com/file/d/1dCdro08eslvGJbYob1XwlNfXWSfMzG6L/view?usp=sharing",
+    "partituraPiano": "url",
+    "movimientos": [
+      {
+        "Café 1930": {
+          "cuenta": "Cuenta: Comienza la guitarra",
+          "80": "https://app.box.com/s/bd0rpurmule679iegsx9h9bjl7lcepnn"
         }
       }
     ]

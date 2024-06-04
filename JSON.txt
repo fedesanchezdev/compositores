@@ -15,16 +15,16 @@ CELLO Y PIANO
 --------------------------------------------------------------------------------
 CELLO Y PIANO Y ACOMPAÑAMIENTO
 ---------------------------------------------------------------------------------
-{"compositor": "",
-"obra": "",
-"partituraCello": "",
-"partituraPiano": "",
+{"compositor": "Bach",
+"obra": "Suite",
+"partituraCello": "url",
+"partituraPiano": "url",
 "movimientos": [
 {
-"": {
-"cuenta": "Cuenta: ",
-"40": "",
-"42": "",
+"largo": {
+"cuenta": "Cuenta: 4 negras",
+"40": "url",
+"42": "url",
 "44": "",
 "46": "",
 "48": "",
