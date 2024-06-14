@@ -1100,6 +1100,28 @@
     ]
   },
   {
+    "compositor": "Messiaen, O.",
+    "obra": "Quatuor pour la fin du temps",
+    "partituraCello": "https://drive.google.com/file/d/1gI4CrQskQz1tr2yuF_Phfm7WSsUFSo5a/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1gLY-LmJ2AvdPHb4xeG9o-Kv0Lmv2tFXj/view?usp=sharing",
+    "movimientos": [
+      {
+        "Louange à l'éternité de Jésus": {
+          "cuenta": "Cuenta: 2 semicorcheas",
+          "40": "https://app.box.com/s/3guzd8g9lxa52fey7bznkb2b4jvbk6hc",
+          "42": "https://app.box.com/s/wbltcpat6kjtvm2knfoyp707zr8wj3z4",
+          "44": "https://app.box.com/s/mmp27hqa87xum5zte99jhm11q97soeom",
+          "46": "https://app.box.com/s/axdrcqs017ne0kary6bvveqonsuqkf9j",
+          "48": "https://app.box.com/s/i8m7905d6xkokdfogacvkcr6dz0i9han",
+          "50": "https://app.box.com/s/x84nl6soae2hv68jainmwx8woyq4jh0f",
+          "52": "https://app.box.com/s/jizhtfiww0vauz91wr338alv9nwnb6zl",
+          "54": "https://app.box.com/s/91s64o2pd4y8shzfzkvoz1omx36d7ogy",
+          "56": "https://app.box.com/s/55iouk4fk4ubcptuqx7167l9a0etyj2v"
+        }
+      }
+    ]
+  },
+  {
     "compositor": "Norton, CH.",
     "obra": "The Microjazz Cello Collection",
     "partituraCello": "https://drive.google.com/file/d/1xScAcDUxEUV4np-dbvzX_y1XN3-rjKsX/view?usp=sharing",
