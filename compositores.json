@@ -1244,7 +1244,7 @@
     ]
   },
   {
-    "compositor": "Piazzolla",
+    "compositor": "Piazzolla, A.",
     "obra": "Café 1930 (La historia del tango)",
     "partituraCello": "https://drive.google.com/file/d/1dCdro08eslvGJbYob1XwlNfXWSfMzG6L/view?usp=sharing",
     "partituraPiano": "https://drive.google.com/file/d/1eVbCGDj2bNAImnFnLCx59OH9eoos9lLr/view?usp=sharing",
@@ -1533,7 +1533,24 @@
     "compositor": "Romberg, B.",
     "obra": "Cello Sonata Nro 1 in E minor Op.38",
     "partituraCello": "https://drive.google.com/file/d/1YyKUuVo7zCl7cpP8aeKRhb3xa2iVTyIh/view?usp=sharing",
-    "partituraPiano": "https://drive.google.com/file/d/1Z1Zfvlqn53le0puBQVoHc_mox0hC4yq6/view?usp=sharing"
+    "partituraPiano": "https://drive.google.com/file/d/1Z1Zfvlqn53le0puBQVoHc_mox0hC4yq6/view?usp=sharing",
+    "movimientos": [
+      {
+        "1. Allegro non troppo": {
+          "cuenta": "Cuenta: 4 negras", 
+          "66": "https://app.box.com/s/q0baw2muusqz17wqu5a33o64t3ad3p5k",
+          "69": "https://app.box.com/s/51fpf3rb32xfr4af39wnhsemyoovp2ci",
+          "72": "https://app.box.com/s/9ozfvsjyn3ca0c4u7rh4wfw6utvlnr86",
+          "76": "https://app.box.com/s/0ev86wq3tj1hj4fbohjjm8w7nyh7nr2z",
+          "80": "https://app.box.com/s/84b3nn6ydqygh0axqbxmd8uey7yb3gxe",
+          "84": "https://app.box.com/s/jhap6tuk6njsfkwswfll21oeyxlnhreq",
+          "88": "https://app.box.com/s/2ao9cgmd8z7x886bwfhna7ttyf9ggk3a",
+          "92": "https://app.box.com/s/xy11mie1ye4q4z9zxbvugep3797rdi9p",
+          "96": "https://app.box.com/s/ylw3p52ndpom24keqp9z9eud03ufyztl",
+          "100": "https://app.box.com/s/z6ir6mxz9vlo7jaaw74mx34hewyusxfb"
+        }
+      }
+    ]
   },
   {
     "compositor": "Saint-Saëns, C.",
