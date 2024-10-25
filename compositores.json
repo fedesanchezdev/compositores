@@ -740,13 +740,27 @@
           "72": "https://app.box.com/s/ujmqud1c8at4r45kx85r2c97joxloeop",
           "76": "https://app.box.com/s/za80j4lkvhnjpuyzmqxqg65ji75bdbyl"
         }
-      }
+      }      
     ]
   },
   {
     "compositor": "Dotzauer, J.J.F.",
     "obra": "Método - Libro II",
-    "partituraCello": "https://drive.google.com/file/d/1Wh85E71DlifkGw2iRYqAUM5MbKqf0I0d/view?usp=sharing"
+    "partituraCello": "https://drive.google.com/file/d/1Wh85E71DlifkGw2iRYqAUM5MbKqf0I0d/view?usp=sharing",
+    "movimientos": [
+      {
+        "Nro 190": {
+          "cuenta": "Cuenta: 3 negras (Sigue marcando pulso por 1 compás)",
+          "69": "https://app.box.com/s/ot5bbmj099g7rpsmq09nz5j7zus71m1e",
+          "72": "https://app.box.com/s/09c5q987l00nxbzdctsue830809k0wh0",
+          "76": "https://app.box.com/s/p6a2ywz1suu22cbxutx5d49gau74ngvy",
+          "80": "https://app.box.com/s/bvhytbxe7p62k5e53mztvg14vu1tp6rl",
+          "84": "https://app.box.com/s/d1d7319qetip0e7fejo9lsevxxqtpr7a",
+          "88": "https://app.box.com/s/s8h3uv297u3d3jmzqlfqkp7fpkgt70es",
+          "92": "https://app.box.com/s/xz8nntvwr17atwlj7et1nqz9c4lzngyr"
+        }
+      }
+    ]
   },
   {
     "compositor": "Dotzauer, J.J.F.",
