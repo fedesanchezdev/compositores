@@ -160,6 +160,19 @@
     "partituraCello": "https://drive.google.com/file/d/1OA_2Q_qfazWGd-Ll6vcb1G6wOhp3HPWV/view?usp=sharing"
   },
   {
+    "compositor": "Barber, S.",
+    "obra": "Adagio for Cello and Harp",
+    "partituraCello": "https://drive.google.com/file/d/1XOkepadipJyUdo92LgeneLgNj6PaNImu/view?usp=sharing",
+    "movimientos": [
+      {
+        "Adagio": {
+          "cuenta": "Cuenta: 2 negras",
+          "66": "https://app.box.com/s/m9chjq8e0mcotnxtzn6ajlo5yi3c8si5",
+        }
+      }
+    ]
+  },
+  {
     "compositor": "Barrière, J.B.",
     "obra": "Sonata para 2 cellos",
     "partituraCello": "https://drive.google.com/file/d/19mrbs8Qlegl-7g3yBxfdr62EumsszUiK/view?usp=sharing"
@@ -766,6 +779,31 @@
           "56": "https://app.box.com/s/m0vqjsg52hejhh7buubjwsxue7sh48xr",
           "58": "https://app.box.com/s/0ro9z9bh9zc5bzoo09h1ha5p1nmamsti"
         }      
+      },
+      {
+        "Nro 50": {
+          "cuenta": "Cuenta: 3 negras con puntillo. Sigue marcando pulsos por 1 compás",
+          "40": "https://app.box.com/s/jfqowllk3ske1php9pcgzr14ib6zfr2g",
+          "44": "https://app.box.com/s/yzxhykyoirb316bqhp5so0fkf93qcl7s",
+          "48": "https://app.box.com/s/rojnxwd16b7h79bai721bpoqdoir920s",
+          "52": "https://app.box.com/s/nmqpvwk1jq2k35hv6v74wljquszaqbda",
+          "56": "https://app.box.com/s/3t47pma0zvljshtk4r85t7wvsn3zx3xb",
+          "60": "https://app.box.com/s/fpgd90tn2rnxqb0umf7asgu3ux8337gw",
+          "63": "https://app.box.com/s/jzog3pd9ls228etkyafrflb1bwaqd88l",
+          "66": "https://app.box.com/s/edygdaqcgm0zbojaw9mmi9bjihy4fdq1"
+        }
+      },
+      {
+        "Nro 53": {
+          "cuenta": "Cuenta: 3 negras con puntillo. Sigue marcando pulsos por 1 compás",
+          "40": "https://app.box.com/s/s8ol06agur8phs0paywd0ziprqlq3n1r",
+          "42": "https://app.box.com/s/n2ofq8nv3cylgkswt6j45rg6otnclx1l",
+          "44": "https://app.box.com/s/yvrstwl1x1jixl1ejvzvjfdofde0by5z",
+          "46": "https://app.box.com/s/n348o8jpljw2lhwib997n2gws6v7tfn7",
+          "48": "https://app.box.com/s/4v2mkcbpsh7bgpjfhgubrv8xw5dxb7q9",
+          "50": "https://app.box.com/s/9wrchrl1reaentp08hlj15va6cgx9yqk",
+          "52": "https://app.box.com/s/czo38wjd0u12yrcm8q4591g78v41gq6y"
+        }
       }
     ]
   },
