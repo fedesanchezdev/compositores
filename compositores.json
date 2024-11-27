@@ -778,7 +778,7 @@
           "54": "https://app.box.com/s/2hi6vpri19jugpblu8cqpaow0tvz6bws",
           "56": "https://app.box.com/s/m0vqjsg52hejhh7buubjwsxue7sh48xr",
           "58": "https://app.box.com/s/0ro9z9bh9zc5bzoo09h1ha5p1nmamsti"
-        }      
+        }
       },
       {
         "Nro 50": {
@@ -927,7 +927,20 @@
   {
     "compositor": "Lee, S.",
     "obra": "22 Estudios fáciles",
-    "partituraCello": "https://drive.google.com/file/d/1jisnIpzFPiAUk9e3tnm4jUtR1dRXQOPb/view?usp=sharing"
+    "partituraCello": "https://drive.google.com/file/d/1jisnIpzFPiAUk9e3tnm4jUtR1dRXQOPb/view?usp=sharing",
+    "movimientos": [
+      {
+        "Nro 1": {
+          "cuenta": "Cuenta: 4 negras",
+          "76": "https://app.box.com/s/9gpmt4mu405ipo02evay2qfn77z6qj46",
+          "80": "https://app.box.com/s/q5aormbtarpwo8bunvcsgbj4uml3te97",
+          "84": "https://app.box.com/s/igh08fgooc6yn57ayhta81i2iqrk0etw",
+          "88": "https://app.box.com/s/0y7995lf0rytqzyddd16quyb62zenqaq",
+          "92": "https://app.box.com/s/pigl4hheu97fz5fly2cds1v8ybsy3is6",
+          "96": "https://app.box.com/s/xjfniq2cwubts2c2z5umzoi4lqbxr165"
+        }
+      }
+    ]
   },
   {
     "compositor": "Marcello, B.",
@@ -1615,7 +1628,7 @@
     "movimientos": [
       {
         "1. Allegro non troppo": {
-          "cuenta": "Cuenta: 4 negras", 
+          "cuenta": "Cuenta: 4 negras",
           "66": "https://app.box.com/s/q0baw2muusqz17wqu5a33o64t3ad3p5k",
           "69": "https://app.box.com/s/51fpf3rb32xfr4af39wnhsemyoovp2ci",
           "72": "https://app.box.com/s/9ozfvsjyn3ca0c4u7rh4wfw6utvlnr86",
@@ -1747,8 +1760,8 @@
       {
         "I. Allegro": {
           "cuenta": "Cuenta: Comienza la orquesta.",
-          "76": "https://app.box.com/s/k1s2w8fwgjku6693vdom83ige7lvaiez",            
-          "100": "https://app.box.com/s/qexx28qtwyporgnqcuyotb3jhkbksvj2" 
+          "76": "https://app.box.com/s/k1s2w8fwgjku6693vdom83ige7lvaiez",
+          "100": "https://app.box.com/s/qexx28qtwyporgnqcuyotb3jhkbksvj2"
         }
       }
     ]
