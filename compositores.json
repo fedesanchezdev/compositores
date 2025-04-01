@@ -975,6 +975,28 @@
     "partituraPiano": "https://drive.google.com/file/d/1-fxyCKBNFpxrzXz7FqX5QM5FuGeZyoZw/view?usp=sharing"
   },
   {
+    "compositor": "Goltermann, G.",
+    "obra": "Nocturne Op.43 Nro.3",
+    "partituraCello": "https://drive.google.com/file/d/1JKZymb42wDdZVGBsucLsmDPybr_InRmr/view?usp=sharing",
+    "partituraPiano": "https://drive.google.com/file/d/1ZM5UZBA0k-yjr0zman1Zm0lQID89YHkr/view?usp=sharing",
+    "movimientos": [
+      {
+        "Molto sostenuto": {
+          "cuenta": "Cuenta: 4 negras con puntillo",
+          "44": "https://app.box.com/s/1oypcnv1d5jgmlxhvj9dpxke2ea78x87",
+          "46": "https://app.box.com/s/4unfm63k1wiz3vnz054xz9rkudmae9z6",
+          "48": "https://app.box.com/s/sn5g710th8qdp5ph6nrv9ouwitpbl6ru",
+          "50": "https://app.box.com/s/9bvm13i7s8zwrc2anakv901wrxzyo5q5",
+          "52": "https://app.box.com/s/6rd26t7uetsthznsft0q68zoom68bizj",
+          "54": "https://app.box.com/s/h6kvbl1vpd9mwfc11fm9r9xxirew0ucx",
+          "56": "https://app.box.com/s/szdc3o1qx6qbt856tx1wva4z9hnbt21m",
+          "58": "https://app.box.com/s/8zu63zlv2bwn9y4d4k3k5n5xjnz4nvrs",
+          "60": "https://app.box.com/s/1nv8f7etd9fkoxad9xospybivlru4y47"
+        }
+      }
+    ]
+  },
+  {
     "compositor": "Klengel, J.",
     "obra": "Escalas en 4 octavas",
     "partituraCello": "https://drive.google.com/file/d/1PzRZ6aIHdwacI1fU_Zw5SxdSqj-mBGwD/view?usp=sharing"
